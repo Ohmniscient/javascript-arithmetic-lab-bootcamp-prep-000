@@ -1,5 +1,7 @@
-var a, b
+var a = 608
+var b = 164
 
-function add() {
-  a + b
+function = add() {
+  a + b =
 }
+
