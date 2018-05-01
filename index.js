@@ -1,6 +1,6 @@
 var a = 608
 var b = 164
 
-function = add() {
+function add() {
   a + b =
 }
